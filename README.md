@@ -1,4 +1,4 @@
-# FIND THE LARGEST NUMBER USING 8086
+# FIND THE LARGEST NUMBER USING 8086 BY MICHAEL JUSTUS W
 
 # 8086 Assembly Language Program for Largest Number
 
@@ -26,7 +26,7 @@ To write and execute Assembly Language Program to perform largest number for the
 9. After the loop, the largest number will be in AL register.
 10. Stop the program.
 ## PROGRAM
-```
+```C
 code segment
 assume cs:code
 start:
@@ -49,8 +49,11 @@ start:
 code ends
 end
 ```
+<img width="640" height="480" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4a7b9fab-702c-4497-9907-4e61a26d0e0f" />
+
 ## OUTPUT
-<img width="638" height="416" alt="Screenshot 2025-10-25 114716" src="https://github.com/user-attachments/assets/56920088-c689-470a-a379-064981d33db2" />
+<img width="777" height="508" alt="image" src="https://github.com/user-attachments/assets/38ffe644-f36e-4394-ab5a-14d59b61f754" />
+#MASM OUTPUT WINDOW
 
 
 ## RESULT
