@@ -1,4 +1,4 @@
-# FIND-THE-LARGEST-NUMBER-USING-8086
+# FIND THE LARGEST NUMBER USING 8086
 
 # 8086 Assembly Language Program for Largest Number
 
